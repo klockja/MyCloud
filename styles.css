@@ -1,0 +1,33 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    background-color: black;
+    padding: .5rem 1rem;
+}
+
+.cloud
+{
+    color: cyan;
+}
+
+h2
+{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: .5rem 1rem;
+    font-style: italic;
+}
+
+h3
+{
+    background-color:cadetblue;
+    text-align: right;
+    text-decoration: underline;
+    color: purple;
+    padding: .5rem;
+}
